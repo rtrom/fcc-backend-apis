@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
     "author": "Rhett Trom",
+    "description": "Assignments for the FCC backend cert",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
